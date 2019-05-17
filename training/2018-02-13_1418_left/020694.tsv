@@ -1,20 +1,20 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-3.24	1152	1046	1159	1054	false	true	40
-3.4	1138	1047	1144	1053	false	true	8т
-8.2.6	1374	1009	1389	1016	false	true	50 м
-6.16	1359	1041	1379	1048	false	true	
+3.24	1152	1046	1159	1054	false	false	40
+3.4	1138	1047	1144	1053	false	false	8т
+8.2.6	1374	1009	1389	1016	false	false	50 м
+6.16	1359	1041	1379	1048	false	false	
 6.10.1	1399	1031	1444	1041	false	true	Заречье
-3.4	1373	991	1389	1007	false	true	8т
+3.4	1373	991	1389	1007	false	false	8т
 6.10.1	1399	1043	1445	1054	false	true	Храм новомучеников и исповедников российских
 5.16	1832	877	1860	929	false	true	
-5.15.1	1871	889	1952	946	false	true	
+5.15.1	1871	889	1952	946	false	false	
 6.10.1	1282	1030	1348	1061	false	true	NA
-6.9.1	1412	916	1482	949	false	true	Заречье МКАД 0.3
-3.27	1081	1054	1091	1066	false	true	
-3.27	1265	1034	1275	1045	false	true	
-8.2.2	1083	1067	1089	1079	false	true	70 м
-3.10	1082	1042	1092	1053	false	true	
-8.2.2	1269	1048	1274	1060	false	true	70 м
-2.4	539	1041	550	1052	false	true	
-5.7.2	535	1031	554	1040	false	true	
-3.1	1699	1027	1711	1041	false	true	
+6.9.1	1412	916	1482	949	false	false	Заречье МКАД 0.3
+3.27	1081	1054	1091	1066	false	false	
+3.27	1265	1034	1275	1045	false	false	
+8.2.2	1083	1067	1089	1079	false	false	70 м
+3.10	1082	1042	1092	1053	false	false	
+8.2.2	1269	1048	1274	1060	false	false	70 м
+2.4	539	1041	550	1052	false	false	
+5.7.2	535	1031	554	1040	false	false	
+3.1	1699	1027	1711	1041	false	false	

@@ -5,16 +5,25 @@ def convert_annotation(obj):
     assert(obj["classTitle"] == "Знак")
     assert(obj["bitmap"] == None)
     assert(obj["points"]["interior"] == [])
-    class_id = [val["value"] for val in obj["tags"] if val["name"] == "Класс"]
-    if len(class_id) == 0:
+    class_id = None
+    data = ""
+    is_temp = "false"
+    is_occl = "false"
+    for tag in obj["tags"]:
+        name = tag["name"]
+        val = tag["value"]
+        if name == "Класс":
+            class_id = val
+        elif name == "Преграждён":
+            is_occl = "true"
+        elif name == "Временный":
+            is_temp = "true"
+        elif name == "Данные":
+            data = val
+        else:
+            print("WARN: unknown tag:", name)
+    if class_id is None:
         raise Exception("Sign without class")
-    class_id = class_id[0]
-    is_temp = [val["value"] for val in obj["tags"] if val["name"] == "Временный"]
-    is_temp = "false" if is_temp == [] else "true"
-    is_occl = [val["value"] for val in obj["tags"] if val["name"] == "Преграждён"]
-    is_occl = "false" if is_temp == [] else "true"
-    data = [val["value"] for val in obj["tags"] if val["name"] == "Данные"]
-    data = "" if data == [] else data[0]
     bbox = obj["points"]["exterior"]
     assert(len(bbox) == 2 and len(bbox[0]) == 2 and len(bbox[0]) == 2)
     xtl = bbox[0][0]

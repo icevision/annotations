@@ -1,6 +1,6 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.5	2111	774	2200	862	false	true	
+5.5	2111	774	2200	862	false	false	
 6.10.1	1279	899	1328	924	false	true	NA
-5.16	1518	834	1533	856	false	true	
-5.15.1	1488	851	1516	874	false	true	
-6.9.1	1351	834	1392	854	false	true	Заречье МКАД 0.3
+5.16	1518	834	1533	856	false	false	
+5.15.1	1488	851	1516	874	false	false	
+6.9.1	1351	834	1392	854	false	false	Заречье МКАД 0.3

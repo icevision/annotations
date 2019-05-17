@@ -1,14 +1,14 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-3.24	1301	1001	1309	1009	false	true	100
-4.1.1	1311	991	1322	1001	false	true	
-8.22.3	1336	985	1343	1011	false	true	
-6.10.2	1416	937	1475	955	false	true	53
-5.3	1301	986	1310	1000	false	true	
-5.4	1468	978	1481	1001	false	true	
-6.10.1	1273	838	1351	877	false	true	Сколково
+3.24	1301	1001	1309	1009	false	false	100
+4.1.1	1311	991	1322	1001	false	false	
+8.22.3	1336	985	1343	1011	false	false	
+6.10.2	1416	937	1475	955	false	false	53
+5.3	1301	986	1310	1000	false	false	
+5.4	1468	978	1481	1001	false	false	
+6.10.1	1273	838	1351	877	false	false	Сколково
 6.9.2	0	0	446	288	false	true	Внуково М3 Калуга Ленинский пр-т МКАД МКАД
 6.9.1	1341	0	2137	292	false	true	Сколковское ш. Сколково 100 м
-4.2.3	1333	967	1345	979	false	true	
-2.1	1311	976	1324	988	false	true	
+4.2.3	1333	967	1345	979	false	false	
+2.1	1311	976	1324	988	false	false	
 6.9.2	644	1	1103	278	false	true	Заречье МКАД
-4.2.3	1336	1015	1349	1029	false	true	
+4.2.3	1336	1015	1349	1029	false	false	

@@ -1,22 +1,22 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-8.2.1	1079	939	1090	944	false	true	600 м
-3.1	2404	895	2434	923	false	true	
+8.2.1	1079	939	1090	944	false	false	600 м
+3.1	2404	895	2434	923	false	false	
 6.10.1	1408	879	1562	957	false	true	NA
-6.16	1785	890	1867	913	false	true	
-8.2.6	1898	752	1964	780	false	true	50 м
-3.4	1898	677	1964	741	false	true	8т
-6.10.1	2136	882	2370	941	false	true	Храм новомучеников и исповедников российских
-6.10.1	2138	823	2372	878	false	true	Заречье
-8.2.2	1378	921	1393	950	false	true	70 м
-3.27	1372	892	1398	919	false	true	
-8.1.1	1274	986	1290	997	false	true	20 м
-3.24	1157	923	1168	938	false	true	40
-3.4	1133	924	1144	937	false	true	8т
-8.22.3	1025	988	1034	1017	false	true	
-8.2.2	946	959	961	988	false	true	70 м
-3.27	939	930	968	957	false	true	
-3.10	940	900	967	928	false	true	
-5.15.1	210	910	244	946	false	true	
-1.31	1077	925	1092	938	false	true	
-4.2.3	1024	975	1035	985	false	true	
+6.16	1785	890	1867	913	false	false	
+8.2.6	1898	752	1964	780	false	false	50 м
+3.4	1898	677	1964	741	false	false	8т
+6.10.1	2136	882	2370	941	false	false	Храм новомучеников и исповедников российских
+6.10.1	2138	823	2372	878	false	false	Заречье
+8.2.2	1378	921	1393	950	false	false	70 м
+3.27	1372	892	1398	919	false	false	
+8.1.1	1274	986	1290	997	false	false	20 м
+3.24	1157	923	1168	938	false	false	40
+3.4	1133	924	1144	937	false	false	8т
+8.22.3	1025	988	1034	1017	false	false	
+8.2.2	946	959	961	988	false	false	70 м
+3.27	939	930	968	957	false	false	
+3.10	940	900	967	928	false	false	
+5.15.1	210	910	244	946	false	false	
+1.31	1077	925	1092	938	false	false	
+4.2.3	1024	975	1035	985	false	false	
 5.19.1	1785	917	1803	925	false	true	

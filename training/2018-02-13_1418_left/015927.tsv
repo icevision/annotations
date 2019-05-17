@@ -1,16 +1,16 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-8.2.1	1351	1007	1362	1012	false	true	400 м
-8.2.1	1265	1002	1273	1007	false	true	400 м
+8.2.1	1351	1007	1362	1012	false	false	400 м
+8.2.1	1265	1002	1273	1007	false	false	400 м
 8.2.5	1351	985	1363	991	false	true	600 м
 3.24	1352	995	1364	1005	false	true	50
-3.24	1265	993	1273	1001	false	true	50
-4.2.3	1231	994	1241	1003	false	true	
-6.9.1	1193	971	1210	980	false	true	NA
+3.24	1265	993	1273	1001	false	false	50
+4.2.3	1231	994	1241	1003	false	false	
+6.9.1	1193	971	1210	980	false	false	NA
 6.9.2	1463	795	1597	894	false	true	М3 Калуга Внуково МКАД-Юг
-4.1.2	1862	947	1880	987	false	true	
-2.4	1860	897	1883	942	false	true	
+4.1.2	1862	947	1880	987	false	false	
+2.4	1860	897	1883	942	false	false	
 8.22.3	1232	1005	1240	1020	false	true	
-4.1.1	689	980	700	993	false	true	
-5.24.1	1345	995	1377	1000	false	true	Ново-Ивановское
-5.23.1	1352	986	1369	993	false	true	Москва
-3.1	97	986	105	995	false	true	
+4.1.1	689	980	700	993	false	false	
+5.24.1	1345	995	1377	1000	false	false	Ново-Ивановское
+5.23.1	1352	986	1369	993	false	false	Москва
+3.1	97	986	105	995	false	false	

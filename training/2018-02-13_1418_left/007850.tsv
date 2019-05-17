@@ -1,6 +1,6 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.19.1	2240	774	2364	892	false	true	
-5.19.1	1426	916	1450	938	false	true	
-5.20	1424	942	1450	966	false	true	
-2.1	1385	943	1412	968	false	true	
-5.20	1299	979	1312	992	false	true	
+5.19.1	2240	774	2364	892	false	false	
+5.19.1	1426	916	1450	938	false	false	
+5.20	1424	942	1450	966	false	false	
+2.1	1385	943	1412	968	false	false	
+5.20	1299	979	1312	992	false	false	

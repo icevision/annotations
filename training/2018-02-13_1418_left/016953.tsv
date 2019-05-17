@@ -1,13 +1,13 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-4.1.4	1827	898	1834	905	false	true	
+4.1.4	1827	898	1834	905	false	false	
 4.1.2	1854	885	1857	892	false	true	
-3.24	1860	886	1869	897	false	true	40
-8	1841	906	1851	910	false	true	Пропан
-2.4	1849	877	1859	883	false	true	
-5.15.5	1815	884	1829	899	false	true	
+3.24	1860	886	1869	897	false	false	40
+8	1841	906	1851	910	false	false	Пропан
+2.4	1849	877	1859	883	false	false	
+5.15.5	1815	884	1829	899	false	false	
 7.3	1840	886	1853	904	false	true	
 6.9.1	1725	818	1752	838	false	true	МКАД Сколковское ш. 0.6 Ленинский пр-т 8.3
-4.1.1	1692	861	1733	903	false	true	
-2.4	1686	807	1741	856	false	true	
-7.3	157	699	274	884	false	true	
-8	159	890	283	948	false	true	Пропан
+4.1.1	1692	861	1733	903	false	false	
+2.4	1686	807	1741	856	false	false	
+7.3	157	699	274	884	false	false	
+8	159	890	283	948	false	false	Пропан

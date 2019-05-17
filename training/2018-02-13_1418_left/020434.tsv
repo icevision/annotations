@@ -1,11 +1,11 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.16	917	972	926	984	false	true	
-6.6	668	986	687	1006	false	true	
-8.22.3	1317	1000	1330	1046	false	true	
+5.16	917	972	926	984	false	false	
+6.6	668	986	687	1006	false	false	
+8.22.3	1317	1000	1330	1046	false	false	
 6.9.2	1611	884	1786	992	false	true	Сколково Немчинов Заречье Московская Школа Управления Moscow School of Management
 6.6	1596	972	1610	991	false	true	
-5.23.1	1754	917	1854	943	false	true	Заречье
-6.10.1	1988	784	2189	817	false	true	Кладбище
-NA	1962	673	2219	777	false	true	Внимание ! Сквозной проезд закрыт !
-3.1	1007	997	1024	1013	false	true	
-4.2.3	1314	981	1332	998	false	true	
+5.23.1	1754	917	1854	943	false	false	Заречье
+6.10.1	1988	784	2189	817	false	false	Кладбище
+NA	1962	673	2219	777	false	false	Внимание ! Сквозной проезд закрыт !
+3.1	1007	997	1024	1013	false	false	
+4.2.3	1314	981	1332	998	false	false	

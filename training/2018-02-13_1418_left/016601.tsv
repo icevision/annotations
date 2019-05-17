@@ -1,12 +1,12 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-2.4	1671	936	1697	958	false	true	
-7.3	1311	1017	1320	1032	false	true	
-3.24	1572	955	1587	969	false	true	40
-4.1.2	1671	959	1690	978	false	true	
-6.9.2	1492	880	1564	916	false	true	Можайское ш. МКАД - Север МКАД - Юг
-4.2.3	1099	974	1113	991	false	true	
-8.22.3	1098	995	1111	1038	false	true	
-2.1	1213	1021	1225	1035	false	true	
+2.4	1671	936	1697	958	false	false	
+7.3	1311	1017	1320	1032	false	false	
+3.24	1572	955	1587	969	false	false	40
+4.1.2	1671	959	1690	978	false	false	
+6.9.2	1492	880	1564	916	false	false	Можайское ш. МКАД - Север МКАД - Юг
+4.2.3	1099	974	1113	991	false	false	
+8.22.3	1098	995	1111	1038	false	false	
+2.1	1213	1021	1225	1035	false	false	
 4.1.1	1115	1017	1120	1028	false	true	
-8	1312	1034	1321	1038	false	true	Пропан
+8	1312	1034	1321	1038	false	false	Пропан
 7.3	356	1032	365	1056	false	true	

@@ -1,14 +1,14 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.16	969	987	978	999	false	true	
-6.6	779	1001	796	1018	false	true	
-3.1	1359	975	1365	981	false	true	
-8.22.3	1329	1012	1341	1052	false	true	
-5.15.1	1727	960	1738	968	false	true	
-5.23.1	1624	952	1693	971	false	true	Заречье
+5.16	969	987	978	999	false	false	
+6.6	779	1001	796	1018	false	false	
+3.1	1359	975	1365	981	false	false	
+8.22.3	1329	1012	1341	1052	false	false	
+5.15.1	1727	960	1738	968	false	false	
+5.23.1	1624	952	1693	971	false	false	Заречье
 6.10.1	1717	932	1740	942	false	true	Заречье МКАД 0.3
 6.9.2	1556	919	1693	1004	false	true	Сколково Немчинов Заречье Московская Школа Управления Moscow School of Management
-6.10.1	1718	878	1840	899	false	true	Кладбище
-NA	1703	814	1859	873	false	true	Внимание ! Сквозной проезд закрыт !
+6.10.1	1718	878	1840	899	false	false	Кладбище
+NA	1703	814	1859	873	false	false	Внимание ! Сквозной проезд закрыт !
 6.9.2	2314	527	2448	659	false	true	Инновационный центр “Сколково” Skolkovo Innovation Center
-4.2.3	1327	996	1342	1009	false	true	
-3.1	1063	1009	1077	1024	false	true	
+4.2.3	1327	996	1342	1009	false	false	
+3.1	1063	1009	1077	1024	false	false	

@@ -1,10 +1,10 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.15.4	1453	1007	1460	1014	false	true	
-2.1	1428	1010	1439	1020	false	true	
-5.19.2	1531	977	1548	994	false	true	
-5.7.1	1565	974	1582	981	false	true	
-2.4	1567	984	1579	997	false	true	
-5.19.1	1569	1002	1578	1017	false	true	
-3.27	1344	1023	1350	1030	false	true	
-6.9.2	1257	987	1297	1006	false	true	Москва, Инновационный центр "Сколково" Skolkovo innovation center
+5.15.4	1453	1007	1460	1014	false	false	
+2.1	1428	1010	1439	1020	false	false	
+5.19.2	1531	977	1548	994	false	false	
+5.7.1	1565	974	1582	981	false	false	
+2.4	1567	984	1579	997	false	false	
+5.19.1	1569	1002	1578	1017	false	false	
+3.27	1344	1023	1350	1030	false	false	
+6.9.2	1257	987	1297	1006	false	false	Москва, Инновационный центр "Сколково" Skolkovo innovation center
 6.9.2	873	771	973	850	false	true	М9 Псков М3 Калуга МКАД

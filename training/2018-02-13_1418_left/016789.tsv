@@ -1,8 +1,8 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-4.1.1	1802	947	1815	960	false	true	
-2.4	1801	930	1816	945	false	true	
-8	1424	976	1444	986	false	true	Пропан
-2.1	1239	957	1259	981	false	true	
-4.1.1	1050	950	1060	965	false	true	
-7.3	1424	944	1444	974	false	true	
-4.1.1	1241	982	1254	1001	false	true	
+4.1.1	1802	947	1815	960	false	false	
+2.4	1801	930	1816	945	false	false	
+8	1424	976	1444	986	false	false	Пропан
+2.1	1239	957	1259	981	false	false	
+4.1.1	1050	950	1060	965	false	false	
+7.3	1424	944	1444	974	false	false	
+4.1.1	1241	982	1254	1001	false	false	

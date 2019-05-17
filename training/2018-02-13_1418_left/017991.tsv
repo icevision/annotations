@@ -1,8 +1,8 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-5.4	1613	966	1633	999	false	true	
+5.4	1613	966	1633	999	false	false	
 6.9.1	1227	976	1270	998	false	true	Сколковское ш. Сколково 100 м
-6.7	576	986	585	996	false	true	
-8.22.3	1396	977	1408	1019	false	true	
-4.2.3	1391	951	1413	974	false	true	
+6.7	576	986	585	996	false	false	
+8.22.3	1396	977	1408	1019	false	false	
+4.2.3	1391	951	1413	974	false	false	
 6.9.2	1193	977	1216	998	false	true	Заречье МКАД
-4.2.2	1587	988	1593	994	false	true	
+4.2.2	1587	988	1593	994	false	false	

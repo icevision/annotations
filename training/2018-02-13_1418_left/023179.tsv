@@ -1,8 +1,8 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-6.10.1	1476	886	1587	941	false	true	NA
-5.16	1739	887	1776	945	false	true	
-5.19.2	1142	947	1149	955	false	true	
-4.3	1357	944	1376	963	false	true	
-8.13	1356	923	1375	942	false	true	
-2.1	1351	893	1378	920	false	true	
-5.19.1	1277	936	1285	944	false	true	
+6.10.1	1476	886	1587	941	false	false	NA
+5.16	1739	887	1776	945	false	false	
+5.19.2	1142	947	1149	955	false	false	
+4.3	1357	944	1376	963	false	false	
+8.13	1356	923	1375	942	false	false	
+2.1	1351	893	1378	920	false	false	
+5.19.1	1277	936	1285	944	false	false	

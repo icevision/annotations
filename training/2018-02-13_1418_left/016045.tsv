@@ -1,16 +1,16 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-8.2.1	1533	992	1553	1005	false	true	400 м
-5.23.1	1572	952	1605	967	false	true	Москва
+8.2.1	1533	992	1553	1005	false	false	400 м
+5.23.1	1572	952	1605	967	false	false	Москва
 8.22.3	1320	991	1329	1021	false	true	
-5.24.1	1560	969	1620	978	false	true	Ново-Ивановское
-3.24	1364	976	1375	986	false	true	50
-3.24	1534	968	1557	991	false	true	50
-8.2.5	1534	955	1556	966	false	true	600 м
-8.2.1	1364	989	1375	996	false	true	400 м
-4.2.3	1319	978	1331	990	false	true	
-6.9.1	1262	957	1281	967	false	true	NA
-4.1.1	443	951	461	970	false	true	
-3.1	61	960	68	971	false	true	
-4.1.1	1277	980	1282	985	false	true	
-1.15	1150	978	1158	986	false	true	
-8	1150	988	1158	992	false	true	NA
+5.24.1	1560	969	1620	978	false	false	Ново-Ивановское
+3.24	1364	976	1375	986	false	false	50
+3.24	1534	968	1557	991	false	false	50
+8.2.5	1534	955	1556	966	false	false	600 м
+8.2.1	1364	989	1375	996	false	false	400 м
+4.2.3	1319	978	1331	990	false	false	
+6.9.1	1262	957	1281	967	false	false	NA
+4.1.1	443	951	461	970	false	false	
+3.1	61	960	68	971	false	false	
+4.1.1	1277	980	1282	985	false	false	
+1.15	1150	978	1158	986	false	false	
+8	1150	988	1158	992	false	false	NA

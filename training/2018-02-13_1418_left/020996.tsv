@@ -1,9 +1,9 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-4.2.3	1094	987	1113	1004	false	true	
-8.1.1	1552	1022	1585	1046	false	true	20 м
-1.31	1187	909	1209	929	false	true	
-8.2.1	1185	930	1209	940	false	true	600 м
-3.24	1316	913	1335	934	false	true	40
-3.4	1276	912	1296	931	false	true	8т
-8.22.3	1094	1008	1110	1059	false	true	
+4.2.3	1094	987	1113	1004	false	false	
+8.1.1	1552	1022	1585	1046	false	false	20 м
+1.31	1187	909	1209	929	false	false	
+8.2.1	1185	930	1209	940	false	false	600 м
+3.24	1316	913	1335	934	false	false	40
+3.4	1276	912	1296	931	false	false	8т
+8.22.3	1094	1008	1110	1059	false	false	
 4.2.3	1112	1082	1130	1089	false	true	

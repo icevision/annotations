@@ -1,8 +1,8 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-4.1.1	1765	959	1806	999	false	true	
-2.4	1761	911	1805	953	false	true	
-4.1.2	1910	916	1946	959	false	true	
-2.4	1893	856	1951	908	false	true	
-4.1.1	1071	930	1111	972	false	true	
-6.9.1	1188	862	1280	906	false	true	МКАД Сколковское ш. 0.6 Ленинский пр-т 8.3
-2.1	1062	869	1116	925	false	true	
+4.1.1	1765	959	1806	999	false	false	
+2.4	1761	911	1805	953	false	false	
+4.1.2	1910	916	1946	959	false	false	
+2.4	1893	856	1951	908	false	false	
+4.1.1	1071	930	1111	972	false	false	
+6.9.1	1188	862	1280	906	false	false	МКАД Сколковское ш. 0.6 Ленинский пр-т 8.3
+2.1	1062	869	1116	925	false	false	

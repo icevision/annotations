@@ -1,7 +1,7 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
 6.9.1	1327	962	1340	971	false	true	М3 Калуга Внуково МКАД-Юг
 6.9.1	1343	937	1372	955	false	true	Москва М9 Псков МКАД-Север М3 Калуга Внуково МКАД-Юг 200 м
-6.9.2	1291	807	1366	863	false	true	М9 Псков М3 Калуга МКАД
-2.1	1474	933	1496	955	false	true	
-7.5	1536	943	1555	972	false	true	5 м
-NA	1770	891	1806	947	false	true	50 м
+6.9.2	1291	807	1366	863	false	false	М9 Псков М3 Калуга МКАД
+2.1	1474	933	1496	955	false	false	
+7.5	1536	943	1555	972	false	false	5 м
+NA	1770	891	1806	947	false	false	50 м

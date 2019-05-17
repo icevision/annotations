@@ -1,20 +1,20 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-2.2	1384	972	1393	983	false	true	
-5.15.5	1444	975	1453	987	false	true	
-1.25	1690	1007	1713	1028	true	true	
-3.27	1184	962	1201	982	false	true	
-6.7	1432	967	1440	975	false	true	
-3.27	1499	969	1516	986	false	true	
-5.5	1500	950	1516	967	false	true	
-4.2.2	1655	1007	1676	1027	false	true	
-2.1	1852	864	1923	934	false	true	
-5.19.2	2392	957	2407	976	false	true	
-3.1	1240	939	1245	945	false	true	
-2.4	1323	946	1329	953	false	true	
+2.2	1384	972	1393	983	false	false	
+5.15.5	1444	975	1453	987	false	false	
+1.25	1690	1007	1713	1028	true	false	
+3.27	1184	962	1201	982	false	false	
+6.7	1432	967	1440	975	false	false	
+3.27	1499	969	1516	986	false	false	
+5.5	1500	950	1516	967	false	false	
+4.2.2	1655	1007	1676	1027	false	false	
+2.1	1852	864	1923	934	false	false	
+5.19.2	2392	957	2407	976	false	false	
+3.1	1240	939	1245	945	false	false	
+2.4	1323	946	1329	953	false	false	
 5.19.2	1312	963	1315	968	false	true	
-4.1.2	1323	955	1329	961	false	true	
-5.6	1322	963	1328	971	false	true	
-8.22.3	1299	961	1303	975	false	true	
-4.2.3	1299	954	1303	959	false	true	
+4.1.2	1323	955	1329	961	false	false	
+5.6	1322	963	1328	971	false	false	
+8.22.3	1299	961	1303	975	false	false	
+4.2.3	1299	954	1303	959	false	false	
 5.16	948	951	960	980	false	true	
-6.9.2	654	692	940	831	false	true	Москва, Инновационный центр "Сколково" Skolkovo innovation center
+6.9.2	654	692	940	831	false	false	Москва, Инновационный центр "Сколково" Skolkovo innovation center

@@ -1,7 +1,7 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
 1.20.2	2374	1213	2448	1359	true	true	
 4.2.2	2269	1165	2436	1346	false	true	
-4.2.3	1358	996	1369	1007	false	true	
-8.22.3	1359	1009	1367	1039	false	true	
-3.1	471	999	482	1012	false	true	
+4.2.3	1358	996	1369	1007	false	false	
+8.22.3	1359	1009	1367	1039	false	false	
+3.1	471	999	482	1012	false	false	
 6.9.2	1609	945	1657	954	false	true	Можайское ш. МКАД - Север МКАД - Юг

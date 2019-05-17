@@ -1,4 +1,4 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-3.4	501	868	515	889	false	true	3,5 т
-2.1	499	839	517	865	false	true	
-5.31	502	891	514	918	false	true	20
+3.4	501	868	515	889	false	false	3,5 т
+2.1	499	839	517	865	false	false	
+5.31	502	891	514	918	false	false	20

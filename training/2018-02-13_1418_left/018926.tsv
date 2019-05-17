@@ -1,13 +1,13 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-4.1.2	1284	978	1295	988	false	true	
-2.4	1281	961	1295	975	false	true	
-8.22.3	1215	957	1230	1008	false	true	
-4.2.3	1209	921	1235	947	false	true	
-4.1.1	1160	971	1178	990	false	true	
-2.1	1155	943	1181	968	false	true	
-3.24	1136	986	1150	1000	false	true	100
-5.4	1495	946	1525	990	false	true	
-6.10.2	1644	725	1897	824	false	true	53
-6.10.1	1091	546	1304	647	false	true	Сколково
-5.3	1138	966	1151	985	false	true	
+4.1.2	1284	978	1295	988	false	false	
+2.4	1281	961	1295	975	false	false	
+8.22.3	1215	957	1230	1008	false	false	
+4.2.3	1209	921	1235	947	false	false	
+4.1.1	1160	971	1178	990	false	false	
+2.1	1155	943	1181	968	false	false	
+3.24	1136	986	1150	1000	false	false	100
+5.4	1495	946	1525	990	false	false	
+6.10.2	1644	725	1897	824	false	false	53
+6.10.1	1091	546	1304	647	false	false	Сколково
+5.3	1138	966	1151	985	false	false	
 4.2.3	1217	1015	1242	1028	false	true	

@@ -1,17 +1,17 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
 4.2.3	1212	979	1219	985	false	true	
-6.7	965	964	981	979	false	true	
-4.2.3	1219	947	1226	954	false	true	
-4.1.2	1258	944	1267	954	false	true	
+6.7	965	964	981	979	false	false	
+4.2.3	1219	947	1226	954	false	false	
+4.1.2	1258	944	1267	954	false	false	
 5.19.2	1232	959	1237	967	false	true	
-5.6	1258	956	1267	967	false	true	
-2.4	1257	931	1270	942	false	true	
-8.22.3	1219	956	1225	976	false	true	
-3.27	931	903	990	961	false	true	
-2.2	1352	968	1368	984	false	true	
-5.15.5	1503	967	1522	986	false	true	
-6.7	1459	955	1475	972	false	true	
-3.27	1924	924	1978	979	false	true	
-5.5	1927	866	1983	922	false	true	
-3.1	1143	932	1149	940	false	true	
+5.6	1258	956	1267	967	false	false	
+2.4	1257	931	1270	942	false	false	
+8.22.3	1219	956	1225	976	false	false	
+3.27	931	903	990	961	false	false	
+2.2	1352	968	1368	984	false	false	
+5.15.5	1503	967	1522	986	false	false	
+6.7	1459	955	1475	972	false	false	
+3.27	1924	924	1978	979	false	false	
+5.5	1927	866	1983	922	false	false	
+3.1	1143	932	1149	940	false	false	
 6.9.2	1366	903	1388	916	false	true	М9 Псков М3 Калуга МКАД

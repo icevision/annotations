@@ -1,15 +1,15 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-2.4	1376	926	1381	936	false	true	
-6.16	1280	953	1291	956	false	true	
-5.19.1	1281	943	1290	952	false	true	
-5.16	1255	936	1263	947	false	true	
-5.19.2	1076	933	1086	942	false	true	
-4.1.5	664	959	672	970	false	true	
-2.1	661	940	676	957	false	true	
-5.16	925	906	940	927	false	true	
-1.8	1472	896	1513	931	false	true	
-4.1.1	99	641	353	897	false	true	
-2.1	55	210	408	566	false	true	
-5.15.1	1339	954	1355	967	false	true	
-2.1	1332	916	1351	935	false	true	
-6.10.1	1372	946	1431	977	false	true	Марфино
+2.4	1376	926	1381	936	false	false	
+6.16	1280	953	1291	956	false	false	
+5.19.1	1281	943	1290	952	false	false	
+5.16	1255	936	1263	947	false	false	
+5.19.2	1076	933	1086	942	false	false	
+4.1.5	664	959	672	970	false	false	
+2.1	661	940	676	957	false	false	
+5.16	925	906	940	927	false	false	
+1.8	1472	896	1513	931	false	false	
+4.1.1	99	641	353	897	false	false	
+2.1	55	210	408	566	false	false	
+5.15.1	1339	954	1355	967	false	false	
+2.1	1332	916	1351	935	false	false	
+6.10.1	1372	946	1431	977	false	false	Марфино

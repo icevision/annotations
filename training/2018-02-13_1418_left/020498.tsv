@@ -1,13 +1,13 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-6.6	1715	935	1747	966	false	true	
-6.9.2	1942	719	2330	958	false	true	Сколково Немчинов Заречье Московская Школа Управления Moscow School of Management
-5.16	736	942	747	959	false	true	
-3.1	778	969	801	995	false	true	
-6.6	205	943	236	974	false	true	
-8.22.3	1250	979	1268	1048	false	true	
-4.2.3	1246	948	1272	975	false	true	
-5.5	1795	955	1819	980	false	true	
+6.6	1715	935	1747	966	false	false	
+6.9.2	1942	719	2330	958	false	false	Сколково Немчинов Заречье Московская Школа Управления Moscow School of Management
+5.16	736	942	747	959	false	false	
+3.1	778	969	801	995	false	false	
+6.6	205	943	236	974	false	false	
+8.22.3	1250	979	1268	1048	false	false	
+4.2.3	1246	948	1272	975	false	false	
+5.5	1795	955	1819	980	false	false	
 6.9.1	1720	889	1741	904	false	true	Заречье МКАД 0.3
-5.16	1805	901	1816	917	false	true	
+5.16	1805	901	1816	917	false	false	
 5.15.1	1770	920	1786	932	false	true	
 6.10.1	1691	921	1728	942	false	true	NA

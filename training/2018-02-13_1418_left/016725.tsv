@@ -1,11 +1,11 @@
 class	xtl	ytl	xbr	ybr	temporary	occluded	data
-3.24	2141	852	2188	897	false	true	40
-8	1371	1030	1386	1036	false	true	Пропан
-7.3	1371	1004	1386	1028	false	true	
-4.1.1	1232	1033	1242	1045	false	true	
-2.1	1231	1014	1246	1031	false	true	
-4.1.1	1088	1008	1096	1021	false	true	
-4.1.1	1672	1007	1682	1016	false	true	
-2.4	1671	993	1683	1004	false	true	
-8.22.3	893	959	923	1075	false	true	
-4.2.3	887	902	930	948	false	true	
+3.24	2141	852	2188	897	false	false	40
+8	1371	1030	1386	1036	false	false	Пропан
+7.3	1371	1004	1386	1028	false	false	
+4.1.1	1232	1033	1242	1045	false	false	
+2.1	1231	1014	1246	1031	false	false	
+4.1.1	1088	1008	1096	1021	false	false	
+4.1.1	1672	1007	1682	1016	false	false	
+2.4	1671	993	1683	1004	false	false	
+8.22.3	893	959	923	1075	false	false	
+4.2.3	887	902	930	948	false	false	

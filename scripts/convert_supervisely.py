@@ -27,17 +27,18 @@ def convert_annotation(obj):
     return "\t".join([class_id, points, is_temp, is_occl, data])
 
 def convert_json(path):
+    header = "class\txtl\tytl\txbr\tybr\ttemporary\toccluded\tdata"
     data = json.load(open(path))
     if data["objects"] == []:
         if data["tags"] != [{'name': 'Пустой', 'value': None}]:
             raise Exception("no objects and no empty tag")
-        return ""
+        return header
     if data["tags"] != []:
         raise Exception("annotated objects and frame tag(s)")
     buf = []
     for obj in data["objects"]:
         buf.append(convert_annotation(obj))
-    return "\n".join(buf)
+    return header + "\n" + "\n".join(buf)
 
 def tsv_count(dir):
     c = 0

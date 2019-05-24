@@ -14,6 +14,9 @@ full list of signs.
 - `occluded`: is sign occluded?
 - `data`: associated data, e.g. speed limit, distance, names, etc.
 
+Some files also contain `manual` field, used to denote if bounding box was
+annotated manually (`true`) or was linearly interpolated (`false`).
+
 `class` has two additionall special values:
 - `8`: used for additional information signs for which exact code can not be
 determined

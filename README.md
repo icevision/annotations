@@ -33,7 +33,7 @@ determined
 
 | Seq. name | FLIF | JPEG | Frames |
 | --------- | ---- | ---- | ------ |
-| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1424/left_jpgs.tar) | All |
+| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left_jpgs.tar) | All |
 | `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | Not ready | 5001-end |
 
 ## License

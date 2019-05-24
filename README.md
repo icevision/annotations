@@ -24,7 +24,7 @@ determined
 ## Training sequences
 
 | Seq. name | FLIF | JPEG | Annotations | Frames |
-| --------- | ---- | ---- | ------ |
+| --------- | ---- | ---- | ----------- | ------ |
 | `2018-02-13_1418_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left_jpgs.tar) | [link](https://github.com/icevision/annotations/tree/master/training/2018-02-13_1418_left) | All |
 | `2018-03-16_1418_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1418/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1418/left_jpgs.tar) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-16_1418_left) | All |
 | `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | Not ready | Not ready | 0-5000 |

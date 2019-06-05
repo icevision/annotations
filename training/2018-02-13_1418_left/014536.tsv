@@ -3,10 +3,10 @@ class	xtl	ytl	xbr	ybr	temporary	occluded	data
 5.19.2	1900	957	1926	992	false	true	
 4.2.3	1864	886	1913	934	false	false	
 4.2.3	1854	1053	1890	1086	false	true	
-8	1830	965	1846	973	false	false	12 т без пропуска
+8.4.1	1830	965	1846	973	false	false	12 т без пропуска
 8.1.1	1830	988	1843	995	false	false	250 м
 3.1	1829	947	1846	964	false	false	
-8	1829	977	1847	984	false	false	6.00 - 22.00
+8.5.4	1829	977	1847	984	false	false	6.00 - 22.00
 2.1	1848	990	1856	999	false	true	
 6.9.2	1782	918	1822	946	false	true	М9 Псков М3 Калуга МКАД
 5.6	1074	999	1088	1012	false	false	

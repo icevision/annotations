@@ -10,10 +10,10 @@ class	xtl	ytl	xbr	ybr	temporary	occluded	data
 2.4	1191	876	1218	899	false	false	
 3.1	1272	930	1282	939	false	false	
 2.2	1408	938	1444	977	false	false	
-8	1048	935	1057	939	false	false	12 т без пропуска
-8	1048	939	1056	944	false	false	6.00 - 22.00
+8.4.1	1048	935	1057	939	false	false	12 т без пропуска
+8.5.4	1048	939	1056	944	false	false	6.00 - 22.00
 8.1.1	1048	946	1055	950	false	false	250 м
 8.1.1	1272	953	1281	957	false	false	250 м
-8	1273	940	1282	945	false	false	12 т без пропуска
-8	1272	946	1282	951	false	false	6.00 - 22.00
+8.4.1	1273	940	1282	945	false	false	12 т без пропуска
+8.5.4	1272	946	1282	951	false	false	6.00 - 22.00
 5.6	852	938	859	945	false	false	

@@ -9,7 +9,7 @@ Annotations for each sequence are stored inside folders in the form of TSV files
 Each TSV file has the following fields:
 - `class`: traffic sign code according to Russian traffic code. See [wiki] for
 full list of signs.
-- `xtl`, `ytl`, `xbr`, `ybr`: bounding box coordinates. `xtl` is always bigger than `xbr` and `ytl` is always bigger than `ybr`.
+- `xtl`, `ytl`, `xbr`, `ybr`: bounding box coordinates. `xbr` is always bigger than `xtl` and `ybr` is always bigger than `ytl`.
 - `temporary`: is sign for "temporary" (i.e. has yellow background)?
 - `occluded`: is sign occluded?
 - `data`: associated data, e.g. speed limit, distance, names, etc.

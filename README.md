@@ -55,6 +55,7 @@ Password for `test_archive.zip` is "password". SHA-256 hash sums:
 ```
 f7c7edd5379a27b334542b7219276d79ae7670098327a3017c92d142cb386cdd  flifs.zip
 5250a0c7b72ed3e61cee22318f69812cdfd260d1fd227a6e0035bb6c4852746e  jpgs.zip
+86729a19867147709fbc0c21486f0d9d33ddecb72e351368810b9ff0f3f8eea8  webms.zip
 6730558c937ed100b8411dc7c126e3c9d992c68ffa8a7856650e224f6f8098ff  test_archive.zip
 ```
 

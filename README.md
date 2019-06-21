@@ -49,7 +49,8 @@ determined
 
 ## Final sequences
 
-Encrypted archives can be downloaded from [http://oscar.skoltech.ru/data/online_final/]. Password for `test_archive.zip` is "password". SHA-256 hash sums:
+Encrypted archives can be downloaded from http://oscar.skoltech.ru/data/online_final/.
+Password for `test_archive.zip` is "password". SHA-256 hash sums:
 
 ```
 f7c7edd5379a27b334542b7219276d79ae7670098327a3017c92d142cb386cdd  flifs.zip
@@ -67,7 +68,9 @@ Sequences table:
 
 ## Annotation errors
 
-If you'll encounter any annotation errors, feel free to open an issue describing them, but please be specific and do not forget to list frames in question.
+If you'll encounter any annotation errors, feel free to open an issue
+describing them, but please be specific and do not forget to list frames in
+question.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">IceVisionSet</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="https://www.skoltech.ru/">ISR Lab, Skoltech</a> & <a href="https://www.rvc.ru/">RVC</a></span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://oscar.skoltech.ru" rel="dct:source">http://oscar.skoltech.ru/</a>.

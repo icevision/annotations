@@ -26,8 +26,8 @@ determined
 
 ## Training sequences
 
-| Seq. name | FLIF | JPEG | WebM | Annotations | Frames | Annotated | Bboxes |
-| --------- | ---- | ---- | ---- | ----------- | ------ | --------- | ------ |
+| Seq. name | FLIF | JPEG | WebM | Annotations | Frames | Annotated | Boxes |
+| --------- | ---- | ---- | ---- | ----------- | ------ | --------- | ----- |
 | `2018-02-13_1418_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-02-13_1418_left) | 23652 | 788 | 4737 |
 | `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | Not ready | 0-5000 | - | - |
 | `2018-03-02_1239_right` | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right.tar) | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1322_right) | 9688 | 323 | 2726 |
@@ -42,10 +42,10 @@ determined
 
 ## Test sequences
 
-| Seq. name | FLIF | JPEG | WebM | Frames | Annotated |
-| --------- | ---- | ---- | ---- | ------ | --------- |
-| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.webm) | 39431 | 1310 |
-| `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | 5001-36365 | 1048 |
+| Seq. name | FLIF | JPEG | WebM | Annotations | Frames | Annotated | Boxes |
+| --------- | ---- | ---- | ---- | ----------- | ------ | --------- | ----- |
+| `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | [link](https://github.com/icevision/annotations/tree/master/test/2018-02-13_1523_left) | 5001-36365 | 1048 | 4829 |
+| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.webm) | [link](https://github.com/icevision/annotations/tree/master/test/2018-03-16_1324_left) | 39431 | 1310 | 6479 |
 
 ## Annotation errors
 

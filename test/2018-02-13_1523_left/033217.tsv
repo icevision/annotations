@@ -1,0 +1,10 @@
+class	xtl	ytl	xbr	ybr	temporary	occluded	data
+6.9.1	1230	918	1286	950	false	false	NA
+3.1	1084	912	1110	937	false	false	
+6.9.1	1100	938	1128	960	false	true	NA
+5.15.3	1423	945	1439	964	false	false	
+6.6	1601	932	1620	955	false	false	
+2.1	1295	972	1310	985	false	false	
+8.4.1	1084	938	1100	953	false	true	12 т без пропуска
+8.5.4	1084	954	1108	967	false	false	6.00 - 22.00 без пропуска
+4.2.3	1091	1017	1109	1041	false	true	

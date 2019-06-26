@@ -50,7 +50,10 @@ determined
 ## Final sequences
 
 Encrypted archives can be downloaded from http://oscar.skoltech.ru/data/online_final/.
-Password for `test_archive.zip` is "password". SHA-256 hash sums:
+Password for `test_archive.zip` is "password". Password for other archives is
+"15498_15532_e8".
+
+SHA-256 hash sums:
 
 ```
 f7c7edd5379a27b334542b7219276d79ae7670098327a3017c92d142cb386cdd  flifs.zip

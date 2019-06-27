@@ -17,7 +17,7 @@ full list of signs.
 Some files also contain `manual` field, used to denote if bounding box was
 annotated manually (`true`) or was linearly interpolated (`false`).
 
-`class` has two additionall special values:
+`class` has two additional special values:
 - `8`: used for additional information signs for which exact code can not be
 determined
 - `NA`: used for unofficial or unrecognizable signs.

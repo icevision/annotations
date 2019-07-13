@@ -1,0 +1,17 @@
+class	xtl	ytl	xbr	ybr	temporary	occluded	data
+3.24	1777	966	1810	1001	true	false	60
+1.25	1811	955	1851	994	true	false	
+1.20.2	1852	963	1891	1000	true	false	
+4.2.3	1812	907	1867	963	false	true	
+1.34.2	1793	999	1874	1023	false	true	
+3.24	2151	977	2173	998	true	false	80
+4.2.1	2116	944	2153	982	false	true	
+1.34.3	2093	1002	2152	1022	false	true	
+6.6	2255	724	2329	790	false	false	
+5.19.1	1931	236	2134	492	false	false	
+5.16	755	934	776	970	false	false	
+8.24	1885	913	1958	946	false	false	
+3.27	1887	837	1954	909	false	false	
+3.24	1884	757	1953	829	false	false	80
+1.25	2084	971	2120	1002	true	false	
+4.2.3	2121	977	2148	1002	false	false	

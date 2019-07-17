@@ -1,0 +1,17 @@
+class	xtl	ytl	xbr	ybr	temporary	occluded	data
+8.2.1	785	995	800	1006	true	false	500 м
+4.1.2	1431	976	1441	1000	false	true	
+1.25	783	981	800	998	true	false	
+3.24	1292	956	1315	978	true	false	50
+1.8	1165	951	1188	975	false	false	
+2.1	1688	871	1738	933	false	true	
+1.25	1291	931	1318	956	true	false	
+2.1	861	987	877	1003	false	false	
+1.25	556	951	583	976	true	false	
+4.1.2	754	983	764	993	false	false	
+6.16	766	1000	781	1005	false	false	
+5.16	738	995	745	1006	false	false	
+3.24	790	1007	800	1016	true	false	40
+3.24	499	1016	507	1026	true	false	40
+8.2.1	490	1003	511	1011	true	false	500 м
+1.25	493	990	505	1002	true	false	

@@ -29,7 +29,7 @@ determined
 | Seq. name | FLIF | JPEG | WebM | Annotations | Frames | Annotated | Boxes |
 | --------- | ---- | ---- | ---- | ----------- | ------ | --------- | ----- |
 | `2018-02-13_1418_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1418/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-02-13_1418_left) | 23652 | 788 | 4737 |
-| `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | Not ready | 0-5000 | - | - |
+| `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-02-13_1523_left) | 36365 | 1048 | 4829 |
 | `2018-03-02_1239_right` | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right.tar) | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-02_1239/right.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1322_right) | 9688 | 323 | 2726 |
 | `2018-03-07_1322_right` | [link](http://oscar.skoltech.ru/data/2018-03-07_1322/right.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1322/right_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1322/right.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1322_right) | 4312 | 145 | 247 |
 | `2018-03-07_1325_left` | [link](http://oscar.skoltech.ru/data/2018-03-07_1325/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1325/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1325/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1325_left) | 6318 | 208 | 362 |
@@ -37,38 +37,13 @@ determined
 | `2018-03-07_1354_right` | [link](http://oscar.skoltech.ru/data/2018-03-07_1354/right.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1354/right_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1354/right.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1357_right) | 3032 | 102 | 143 |
 | `2018-03-07_1357_right` | [link](http://oscar.skoltech.ru/data/2018-03-07_1357/right.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1357/right_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-07_1357/right.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-07_1357_right) | 16742 | 557 | 2536 |
 | `2018-03-16_1316_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1316/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1316/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1316/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-16_1316_left) | 14208 | 474 | 2550 |
+| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.webm) | [link](https://github.com/icevision/annotations/tree/master/test/2018-03-16_1324_left) | 39431 | 1310 | 6479 |
 | `2018-03-16_1347_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1347/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1347/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1347/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-16_1347_left) | 14185 | 332 | 507 |
 | `2018-03-16_1418_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1418/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1418/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1418/left.webm) | [link](https://github.com/icevision/annotations/tree/master/training/2018-03-16_1418_left) | 659 | 21 | 36 |
 
 ## Test sequences
 
-| Seq. name | FLIF | JPEG | WebM | Annotations | Frames | Annotated | Boxes |
-| --------- | ---- | ---- | ---- | ----------- | ------ | --------- | ----- |
-| `2018-02-13_1523_left` | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-02-13_1523/left.webm) | [link](https://github.com/icevision/annotations/tree/master/test/2018-02-13_1523_left) | 5001-36365 | 1048 | 4829 |
-| `2018-03-16_1324_left` | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left_jpgs.tar) | [link](http://oscar.skoltech.ru/data/2018-03-16_1324/left.webm) | [link](https://github.com/icevision/annotations/tree/master/test/2018-03-16_1324_left) | 39431 | 1310 | 6479 |
-
-## Final sequences
-
-Encrypted archives can be downloaded from http://oscar.skoltech.ru/data/online_final/.
-Password for `test_archive.zip` is "password". Password for other archives is
-"15498_15532_e8".
-
-SHA-256 hash sums:
-
-```
-f7c7edd5379a27b334542b7219276d79ae7670098327a3017c92d142cb386cdd  flifs.zip
-5250a0c7b72ed3e61cee22318f69812cdfd260d1fd227a6e0035bb6c4852746e  jpgs.zip
-86729a19867147709fbc0c21486f0d9d33ddecb72e351368810b9ff0f3f8eea8  webms.zip
-6730558c937ed100b8411dc7c126e3c9d992c68ffa8a7856650e224f6f8098ff  test_archive.zip
-```
-
-Sequences table:
-
-| Seq. name | Frames | Annotated | Boxes |
-| --------- | ------ | --------- | ----- |
-| `2018-02-16_1515_left` | 3676 | 123 | 553 |
-| `2018-03-16_1424_left` | 2785 | 94 | 402 |
-| `2018-03-23_1352_right` | 8539 | 287 | 1856 |
+TODO
 
 ## Annotation errors
 
